@@ -83,3 +83,14 @@ openeuler_25.09_25.09_x86_64_cloud.zip
 almalinux_10_10_x86_64_default.zip
 almalinux_10_10_x86_64_cloud.zip
 alpine_3.24_3.24_x86_64_cloud.zip
+rockylinux_10_10_x86_64_default.zip
+rockylinux_10_10_x86_64_cloud.zip
+alpine_3.21_3.21_x86_64_default.zip
+alpine_3.22_3.22_x86_64_default.zip
+alpine_3.23_3.23_x86_64_default.zip
+alpine_3.24_3.24_x86_64_default.zip
+openwrt_25.12_25.12_x86_64_default.zip
+fedora_43_43_x86_64_default.zip
+fedora_43_43_x86_64_cloud.zip
+fedora_44_44_x86_64_default.zip
+fedora_44_44_x86_64_cloud.zip

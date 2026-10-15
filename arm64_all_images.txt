@@ -67,3 +67,14 @@ alpine_3.23_3.23_arm64_cloud.zip
 almalinux_10_10_arm64_default.zip
 almalinux_10_10_arm64_cloud.zip
 alpine_3.24_3.24_arm64_cloud.zip
+rockylinux_10_10_arm64_default.zip
+rockylinux_10_10_arm64_cloud.zip
+alpine_3.21_3.21_arm64_default.zip
+alpine_3.22_3.22_arm64_default.zip
+alpine_3.23_3.23_arm64_default.zip
+alpine_3.24_3.24_arm64_default.zip
+openwrt_25.12_25.12_arm64_default.zip
+fedora_43_43_arm64_default.zip
+fedora_43_43_arm64_cloud.zip
+fedora_44_44_arm64_default.zip
+fedora_44_44_arm64_cloud.zip
