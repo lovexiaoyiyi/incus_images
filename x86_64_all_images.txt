@@ -98,3 +98,5 @@ oracle_8_8_x86_64_default.zip
 oracle_9_9_x86_64_default.zip
 oracle_10_10_x86_64_default.zip
 oracle_10_10_x86_64_cloud.zip
+fedora_45_45_x86_64_default.zip
+fedora_45_45_x86_64_cloud.zip
